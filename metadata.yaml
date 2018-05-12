@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32242
     wikipedia: http://en.wikipedia.org/wiki/Louis_Untermeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26785#Modern-British-Poetry
 gutenberg_issued: '2008-10-06'
 gutenberg_type: Text
 identifiers:
